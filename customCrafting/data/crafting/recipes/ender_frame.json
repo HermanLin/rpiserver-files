@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "PEP",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sandstone_stairs"
+        },
+        "O": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "P": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "S": {
+            "item": "minecraft:sandstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_portal_frame",
+        "count": 1
+    }
+}
